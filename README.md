@@ -3,11 +3,11 @@
 ### Hello dear Padawan :wave:
 
 #### You're learning `GIT` and want to make your first pull request in a repository other than yours ?
-#### You're at the right place :fire: ! What about create a pull request with a file that contains some information about and a link to your repository.
+#### You're at the right place :fire: ! What about create a pull request with a file that contains some information about you and a link to your repository ?
 
 ## How To Contribute :computer:
 
-1. Create a [GitHub account](https://github.com/join) and sign in;
+1. Create a [GitHub account](https://github.com/join) and sign in
 2. For this repository (click on the “Fork” button)
 3. After the “forking action” has completed, clone your fork locally (this will create a who-are-you directory):
 `git clone git@github.com:USERNAME/who-are-you.git`
